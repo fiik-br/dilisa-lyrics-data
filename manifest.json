@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "generated": "2025-07-25T03:00:00.000Z",
+  "songs": {
+    "6rqhFgbbKwnb9MLmUQDhG6": {
+      "id": "6rqhFgbbKwnb9MLmUQDhG6",
+      "title": "Despacito",
+      "artists": ["Luis Fonsi", "Daddy Yankee"],
+      "album": "Vida",
+      "durationMs": 281000,
+      "lrcPath": "6rqhFgbbKwnb9MLmUQDhG6.lrc",
+      "synced": true,
+      "syncType": "line",
+      "sourceUrl": "https://github.com/dilisa-lyrics/dilisa-lyrics-data"
+    },
+    "3TVXtAsR1Inumwj472S9r4": {
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "title": "Ai Se Eu Te Pego",
+      "artists": ["Michel Teló"],
+      "album": "Na Balada",
+      "durationMs": 167000,
+      "lrcPath": "3TVXtAsR1Inumwj472S9r4.lrc",
+      "synced": true,
+      "syncType": "line",
+      "sourceUrl": "https://github.com/dilisa-lyrics/dilisa-lyrics-data"
+    }
+  }
+}
