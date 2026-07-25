@@ -76,4 +76,4 @@ https://cdn.jsdelivr.net/gh/dilisa-lyrics/dilisa-lyrics-data@main/{track_id}.lrc
 Push to `main` branch → GitHub Pages + jsDelivr serve automatically at:
 ```
 https://dilisa-lyrics.github.io/dilisa-lyrics-data/manifest.json
-```
+```# Test update sáb 25 jul 2026 04:42:55 -03
