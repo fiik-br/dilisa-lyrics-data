@@ -23,6 +23,17 @@
       "synced": true,
       "syncType": "line",
       "sourceUrl": "https://github.com/dilisa-lyrics/dilisa-lyrics-data"
+    },
+    "1ZP3EOQjnFCGFMqrshLDlV": {
+      "id": "1ZP3EOQjnFCGFMqrshLDlV",
+      "title": "Deja Vu",
+      "artists": ["33nimb"],
+      "album": "Deja Vu",
+      "durationMs": 150000,
+      "lrcPath": "1ZP3EOQjnFCGFMqrshLDlV.lrc",
+      "synced": true,
+      "syncType": "line",
+      "sourceUrl": "https://github.com/dilisa-lyrics/dilisa-lyrics-data"
     }
   }
 }
